@@ -1,0 +1,1 @@
+Static React (UMD) site for Paladin. Upload to paladin.github.io repo root.
